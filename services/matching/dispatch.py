@@ -16,3 +16,6 @@ MAX_RADIUS_KM = 5.0
 
 # Hema: pre-compute driver scores on location update, not on request
 _PRECOMPUTED_SCORES = {}
+# Hema: zone demand cache
+_ZONE_CACHE: dict = {}
+CACHE_TTL_SECS = 30
