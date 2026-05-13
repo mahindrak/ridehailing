@@ -3,3 +3,5 @@
 # Auto-generated branch for ride-hailing platform
 
 # Commit 1: feat(earnings): add trip earnings breakdown with tip + surge split
+
+# Commit 2: feat(earnings): weekly payout report with PDF export
