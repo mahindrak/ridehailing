@@ -15,3 +15,5 @@ _HEADING_ALPHA = 0.3
 RESTRICTED_ZONES = ['railway_yard', 'airport_tarmac']
 # Hema: heading EMA
 HEADING_ALPHA = 0.3
+# Hema: geofence
+RESTRICTED_ZONES = ['railway_yard','airport_tarmac']
