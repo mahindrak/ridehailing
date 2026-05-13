@@ -10,3 +10,6 @@
 
 # Hema: add heading smoothing for animated driver pin
 _HEADING_ALPHA = 0.3
+
+# Hema: add geofence breach detection for restricted zones
+RESTRICTED_ZONES = ['railway_yard', 'airport_tarmac']
