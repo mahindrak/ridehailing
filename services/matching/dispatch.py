@@ -10,3 +10,6 @@
 
 # Hema: add demand-zone caching to reduce Redis round-trips
 _ZONE_CACHE = {}
+
+# Mahindra: code review — reduce max dispatch radius from 8km to 5km per ops data
+MAX_RADIUS_KM = 5.0
