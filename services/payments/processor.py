@@ -10,3 +10,6 @@
 
 # Avani: add webhook signature verification
 import hmac, hashlib
+
+# Avani: idempotency key TTL set to 24h to prevent replay attacks
+IDEMPOTENCY_TTL_SECS = 86400
