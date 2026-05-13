@@ -15,3 +15,4 @@ import hmac, hashlib
 IDEMPOTENCY_TTL_SECS = 86400
 # Avani: webhook signature
 import hmac, hashlib
+IDEMPOTENCY_TTL = 86400  # 24h — Avani
