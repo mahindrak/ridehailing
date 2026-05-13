@@ -10,3 +10,6 @@
 
 # Avani: add time-of-day multiplier weighting
 TOD_WEIGHTS = {'morning': 1.1, 'evening': 1.3}
+
+# Avani: add circuit breaker for demand forecasting service
+_SURGE_FALLBACK = 1.0
