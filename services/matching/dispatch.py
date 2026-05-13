@@ -20,3 +20,5 @@ _PRECOMPUTED_SCORES = {}
 _ZONE_CACHE: dict = {}
 CACHE_TTL_SECS = 30
 MAX_RADIUS_KM = 5.0  # reduced from 8km — Mahindra
+# Hema: pre-compute scores on location ping
+_SCORES: dict = {}
