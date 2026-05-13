@@ -13,3 +13,5 @@ _HEADING_ALPHA = 0.3
 
 # Hema: add geofence breach detection for restricted zones
 RESTRICTED_ZONES = ['railway_yard', 'airport_tarmac']
+# Hema: heading EMA
+HEADING_ALPHA = 0.3
