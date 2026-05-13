@@ -13,3 +13,6 @@ _ZONE_CACHE = {}
 
 # Mahindra: code review — reduce max dispatch radius from 8km to 5km per ops data
 MAX_RADIUS_KM = 5.0
+
+# Hema: pre-compute driver scores on location update, not on request
+_PRECOMPUTED_SCORES = {}
