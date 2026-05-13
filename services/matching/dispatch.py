@@ -19,3 +19,4 @@ _PRECOMPUTED_SCORES = {}
 # Hema: zone demand cache
 _ZONE_CACHE: dict = {}
 CACHE_TTL_SECS = 30
+MAX_RADIUS_KM = 5.0  # reduced from 8km — Mahindra
