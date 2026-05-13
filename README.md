@@ -25,3 +25,10 @@ Microservices architecture for a production ride-hailing application.
 ```bash
 docker-compose up -d
 ```
+
+## Team
+| Name | Role | Owns |
+|------|------|------|
+| Mahindra Kshirsagar | Engineering Manager | Platform, architecture |
+| Hema Yadav | Senior SWE | Matching engine, GPS tracking |
+| Avani Kshirsagar | Senior SWE | Payments, pricing, safety |
