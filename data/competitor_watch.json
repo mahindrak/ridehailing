@@ -1,0 +1,56 @@
+{
+  "last_updated": "2026-05-09",
+  "competitors": [
+    {
+      "name": "Ola",
+      "feature": "Guardian Mode",
+      "description": "Driver background check badge + live trip sharing to trusted contacts. Launched in India Feb 2026.",
+      "category": "safety",
+      "impact": "high",
+      "overlaps_with_epics": [
+        "Safety & SOS Features"
+      ]
+    },
+    {
+      "name": "Uber",
+      "feature": "Anonymous Phone Relay",
+      "description": "Twilio-backed masked phone numbers for driver-rider communication. India rollout March 2026.",
+      "category": "safety",
+      "impact": "high",
+      "overlaps_with_epics": [
+        "Safety & SOS Features"
+      ]
+    },
+    {
+      "name": "Rapido",
+      "feature": "SOS Button + Audio Recording",
+      "description": "SOS button on both driver and rider apps, with optional trip audio recording. April 2026.",
+      "category": "safety",
+      "impact": "critical",
+      "overlaps_with_epics": [
+        "Safety & SOS Features"
+      ]
+    },
+    {
+      "name": "Ola",
+      "feature": "Driver Earnings Transparency",
+      "description": "Real-time trip-by-trip earnings breakdown, weekly summary, and tax export. Q1 2026.",
+      "category": "driver_experience",
+      "impact": "medium",
+      "overlaps_with_epics": [
+        "Driver Earnings Dashboard"
+      ]
+    },
+    {
+      "name": "Rapido",
+      "feature": "Surge Cap Guarantee",
+      "description": "Surge price capped at 2.0\u00d7 with rider notification. Positioned as fairness feature.",
+      "category": "pricing",
+      "impact": "medium",
+      "overlaps_with_epics": [
+        "Surge Pricing Engine"
+      ]
+    }
+  ],
+  "insight": "All 3 major competitors shipped safety features in Q1 2026. RideHailing Safety & SOS is 3-4 weeks behind. This is the highest-retention feature category \u2014 drivers choose platforms with safety features."
+}
