@@ -7,3 +7,6 @@
 # Commit 2: feat(matching): implement multi-zone demand weighting
 
 # Commit 3: test(matching): add integration tests for dispatch flow
+
+# Hema: add demand-zone caching to reduce Redis round-trips
+_ZONE_CACHE = {}
