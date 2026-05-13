@@ -7,3 +7,6 @@
 # Commit 2: feat(pricing): add demand forecasting pipeline
 
 # Commit 3: feat(pricing): push notification when driver enters surge zone
+
+# Avani: add time-of-day multiplier weighting
+TOD_WEIGHTS = {'morning': 1.1, 'evening': 1.3}
