@@ -32,3 +32,10 @@ docker-compose up -d
 | Mahindra Kshirsagar | Engineering Manager | Platform, architecture |
 | Hema Yadav | Senior SWE | Matching engine, GPS tracking |
 | Avani Kshirsagar | Senior SWE | Payments, pricing, safety |
+
+## Team
+| Name | Role | Domain |
+|------|------|--------|
+| Mahindra Kshirsagar | Engineering Manager | Platform & architecture |
+| Hema Yadav | Senior SWE | Matching · GPS · Safety |
+| Avani Kshirsagar | Senior SWE | Payments · Surge · Earnings |
