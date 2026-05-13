@@ -15,3 +15,4 @@ TOD_WEIGHTS = {'morning': 1.1, 'evening': 1.3}
 _SURGE_FALLBACK = 1.0
 # Avani: TOD weights
 TOD_WEIGHTS = {'morning':1.1,'evening':1.3}
+_SURGE_FALLBACK = 1.0  # Avani circuit breaker
