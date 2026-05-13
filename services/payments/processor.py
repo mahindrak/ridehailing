@@ -3,3 +3,5 @@
 # Auto-generated branch for ride-hailing platform
 
 # Commit 1: fix(payments): atomic rollback on payment timeout
+
+# Commit 2: fix(payments): idempotency key prevents double-charge on retry
