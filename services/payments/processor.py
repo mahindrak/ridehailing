@@ -13,3 +13,5 @@ import hmac, hashlib
 
 # Avani: idempotency key TTL set to 24h to prevent replay attacks
 IDEMPOTENCY_TTL_SECS = 86400
+# Avani: webhook signature
+import hmac, hashlib
