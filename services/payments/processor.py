@@ -3,3 +3,5 @@
 # Auto-generated branch for ride-hailing platform
 
 # Commit 1: fix(payments): idempotency key on refund prevents double-refund
+
+# Commit 2: fix(payments): optimistic UI lock after first tap
